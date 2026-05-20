@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vijaygunjal2014/leetcode/tree/master/0001-two-sum) |
+| [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vijaygunjal2014/leetcode/tree/master/0001-two-sum) |
+| [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +24,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vijaygunjal2014/leetcode/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
+## Sorting
+|  |
+| ------- |
+| [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 <!---LeetCode Topics End-->

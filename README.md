@@ -60,4 +60,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vijaygunjal2014/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vijaygunjal2014/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

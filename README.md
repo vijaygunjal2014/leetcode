@@ -19,6 +19,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/vijaygunjal2014/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/vijaygunjal2014/leetcode/tree/master/0070-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
@@ -41,4 +42,12 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/vijaygunjal2014/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vijaygunjal2014/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vijaygunjal2014/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vijaygunjal2014/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

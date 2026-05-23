@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/vijaygunjal2014/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vijaygunjal2014/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/vijaygunjal2014/leetcode/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/vijaygunjal2014/leetcode/tree/master/0283-move-zeroes) |
 | [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Hash Table
@@ -40,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/vijaygunjal2014/leetcode/tree/master/0164-maximum-gap) |
 | [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Binary Search
 |  |
@@ -71,4 +73,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0136-single-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vijaygunjal2014/leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vijaygunjal2014/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->

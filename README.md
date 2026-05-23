@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/vijaygunjal2014/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vijaygunjal2014/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vijaygunjal2014/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/vijaygunjal2014/leetcode/tree/master/0283-move-zeroes) |
 | [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Hash Table
@@ -66,4 +67,8 @@
 | [0175-combine-two-tables](https://github.com/vijaygunjal2014/leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/vijaygunjal2014/leetcode/tree/master/0176-second-highest-salary) |
 | [0577-employee-bonus](https://github.com/vijaygunjal2014/leetcode/tree/master/0577-employee-bonus) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

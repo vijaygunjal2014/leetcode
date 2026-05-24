@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/vijaygunjal2014/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vijaygunjal2014/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vijaygunjal2014/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/vijaygunjal2014/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/vijaygunjal2014/leetcode/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/vijaygunjal2014/leetcode/tree/master/0283-move-zeroes) |
@@ -36,11 +37,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vijaygunjal2014/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vijaygunjal2014/leetcode/tree/master/0283-move-zeroes) |
 | [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vijaygunjal2014/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/vijaygunjal2014/leetcode/tree/master/0164-maximum-gap) |
 | [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Binary Search

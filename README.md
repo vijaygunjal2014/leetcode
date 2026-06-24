@@ -97,4 +97,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vijaygunjal2014/leetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vijaygunjal2014/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vijaygunjal2014/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->

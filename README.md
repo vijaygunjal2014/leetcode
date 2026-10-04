@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vijaygunjal2014/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vijaygunjal2014/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/vijaygunjal2014/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/vijaygunjal2014/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vijaygunjal2014/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vijaygunjal2014/leetcode/tree/master/0088-merge-sorted-array) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vijaygunjal2014/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/vijaygunjal2014/leetcode/tree/master/0014-longest-common-prefix) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vijaygunjal2014/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vijaygunjal2014/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vijaygunjal2014/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

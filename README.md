@@ -45,6 +45,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vijaygunjal2014/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/vijaygunjal2014/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vijaygunjal2014/leetcode/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vijaygunjal2014/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/vijaygunjal2014/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vijaygunjal2014/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/vijaygunjal2014/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vijaygunjal2014/leetcode/tree/master/0014-longest-common-prefix) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vijaygunjal2014/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -119,4 +122,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vijaygunjal2014/leetcode/tree/master/0014-longest-common-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vijaygunjal2014/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

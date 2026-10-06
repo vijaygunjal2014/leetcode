@@ -15,6 +15,7 @@
 | [0164-maximum-gap](https://github.com/vijaygunjal2014/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vijaygunjal2014/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vijaygunjal2014/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vijaygunjal2014/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vijaygunjal2014/leetcode/tree/master/0283-move-zeroes) |
 | [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Hash Table
@@ -25,6 +26,7 @@
 | [0169-majority-element](https://github.com/vijaygunjal2014/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vijaygunjal2014/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/vijaygunjal2014/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Math
 |  |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vijaygunjal2014/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/vijaygunjal2014/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Trie
 |  |
 | ------- |

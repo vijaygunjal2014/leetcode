@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/vijaygunjal2014/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vijaygunjal2014/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vijaygunjal2014/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vijaygunjal2014/leetcode/tree/master/0283-move-zeroes) |
 | [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Hash Table
@@ -23,6 +24,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vijaygunjal2014/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/vijaygunjal2014/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/vijaygunjal2014/leetcode/tree/master/0217-contains-duplicate) |
 | [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Math
 |  |
@@ -59,6 +61,7 @@
 | [0088-merge-sorted-array](https://github.com/vijaygunjal2014/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/vijaygunjal2014/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vijaygunjal2014/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/vijaygunjal2014/leetcode/tree/master/0217-contains-duplicate) |
 | [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Binary Search
 |  |

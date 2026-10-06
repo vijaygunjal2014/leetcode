@@ -3,19 +3,22 @@ import java.util.*;
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
 
-        HashSet<Integer> set = new HashSet<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
 
         for (int i = 0; i < nums.length; i++) {
 
-            if (set.contains(nums[i])) {
-                return true;
+            int num = nums[i];
+
+            if (map.containsKey(num)) {
+
+                int previousIndex = map.get(num);
+
+                if (i - previousIndex <= k) {
+                    return true;
+                }
             }
 
-            set.add(nums[i]);
-
-            if (set.size() > k) {
-                set.remove(nums[i - k]);
-            }
+            map.put(num, i);
         }
 
         return false;

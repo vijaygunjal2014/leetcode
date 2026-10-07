@@ -96,6 +96,7 @@
 | [0182-duplicate-emails](https://github.com/vijaygunjal2014/leetcode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/vijaygunjal2014/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/vijaygunjal2014/leetcode/tree/master/0577-employee-bonus) |
+| [1907-count-salary-categories](https://github.com/vijaygunjal2014/leetcode/tree/master/1907-count-salary-categories) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/vijaygunjal2014/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vijaygunjal2014/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vijaygunjal2014/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vijaygunjal2014/leetcode/tree/master/0283-move-zeroes) |
 | [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Hash Table
@@ -28,6 +29,7 @@
 | [0202-happy-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vijaygunjal2014/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vijaygunjal2014/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0268-missing-number) |
 | [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Math
 |  |
@@ -37,6 +39,7 @@
 | [0009-palindrome-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/vijaygunjal2014/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
@@ -68,6 +71,7 @@
 | [0164-maximum-gap](https://github.com/vijaygunjal2014/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vijaygunjal2014/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vijaygunjal2014/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0268-missing-number) |
 | [2465-number-of-distinct-averages](https://github.com/vijaygunjal2014/leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Binary Search
 |  |
@@ -75,6 +79,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/vijaygunjal2014/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/vijaygunjal2014/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vijaygunjal2014/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +117,7 @@
 | [0136-single-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/vijaygunjal2014/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vijaygunjal2014/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/vijaygunjal2014/leetcode/tree/master/0268-missing-number) |
 ## Bucket Sort
 |  |
 | ------- |
